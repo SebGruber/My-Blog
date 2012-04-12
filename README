@@ -1,1 +1,13 @@
 Hello world
+<html>
+  <table border color="red" border="1">
+    <tr>
+      <td>
+        HOW ARE YOU 
+      </td>
+      <td>
+        this is kind of weird
+      </td>
+    </tr>
+  </table>
+</html>
